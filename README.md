@@ -6,7 +6,7 @@ In other moments of my career I worked with JavaScript using the React.js framew
 And I am looking to improve myself more every day!
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnnawdeFreitas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+      [![trophy](https://github-profile-trophy.vercel.app/?username=AnnawdeFreitas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on Zup Innovation
