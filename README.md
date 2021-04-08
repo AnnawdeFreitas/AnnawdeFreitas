@@ -19,6 +19,6 @@ And I am looking to improve myself more every day!
      
      
      
-     If you have any suggestions for improving this Read.me feel free to let me know! <3
+     If you have any suggestions for improving this Readme feel free to let me know! <3
                                                   Take care!
 
