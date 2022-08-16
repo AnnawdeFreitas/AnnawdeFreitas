@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm Anna! 
-I Have 25 years old, study Information Systems at the Pontifical Catholic University of Minas Gerais with completion expected in the second half of 2023.
+I Have 27 years old, study Information Systems at the Pontifical Catholic University of Minas Gerais with completion expected in the second half of 2023.
 I am currently a Java developer and I use SpringBoot technologies and their derivations, Hibernate, relational database with MySQL and H2 for local development, I use code versioning tools and JUnit for Unit tests.
 In other moments of my career I worked with JavaScript using the React.js framework, HTML and CSS.
 
