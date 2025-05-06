@@ -1,6 +1,6 @@
 👩‍💻 Java Developer | API & Microservices Specialist 🚀
 
-📆 Grupo Boticário | Java Developer | Nov 2022 - Present
+📆 Ifood | Software Engineer | Apr 2024 - Present
 
 🚀 Proficient in API Development, Microservices, and Cloud Computing.
 
