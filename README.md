@@ -8,7 +8,7 @@
 
 🎓 Internship at CI&T, where I learned Agile practices and software development.
 
-💡 Key Skills: Java, Spring Boot, AWS, API Development, Microservices.
+💡 Key Skills: Java, Kotlin, Spring Boot, Python with Rasa, AWS, API Development, Microservices.
 
 🤝 Let's connect and explore opportunities together!
 
